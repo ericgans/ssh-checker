@@ -7,5 +7,5 @@ SSH Checker - a simple tools for checking SSH is active or no.
 # RUN 
 Run the cli file 
 > python ssh.py
-Input ssh data using format ***HOSTSSH:PORT@USER:PASS**
+Input ssh data using format **HOSTSSH:PORT@USER:PASS**
 Thanks <3
